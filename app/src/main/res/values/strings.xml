@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SnkrDrop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="crime_title_hint">Sneaker name</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Released</string>
+    <string name="date_picker_title">Date of release:</string>
+    <string name="new_crime">New Sneaker</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s upcoming releases</string>
+    <string name="crime_suspect_text">Remind Me</string>
+    <string name="crime_report_text">Send Release Info</string>
+    <string name="crime_report">%1$s!
+        The sneaker releases on %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The shoe is not released</string>
+    <string name="crime_report_no_suspect">stay tuned for more! Download Snkr Drop for your own updates.</string>
+    <string name="crime_report_suspect">the suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send Release Data via</string>
+</resources>
